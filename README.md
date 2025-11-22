@@ -1,4 +1,4 @@
-# Hello Python App
+# BAH-FPS code. 
 
 This is a Python application that samples molecular configurations using the BAH and FPS algorithms.
 
