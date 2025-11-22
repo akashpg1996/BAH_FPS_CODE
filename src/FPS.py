@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 import os
 import numpy as np 
 import pandas as pd
@@ -8,7 +5,7 @@ from .functions import *
 from skmatter.sample_selection import FPS # type: ignore
 import numpy as np
 
-#Please write the path where .xsf files are located and number of FPS structures to be selected.
+#Please write the path where .xsf files are located and the number of FPS structures to be selected.
 xsf_directory = "/home/akash/work/VSCODE/BAH_FPS/BAH_FPS_CODE/test/testset"
 FPS_structures=50
 
