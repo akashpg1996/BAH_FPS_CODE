@@ -30,8 +30,8 @@ BAH_FPS
 This project's dependencies are given in the ```requirements.txt``` file.
 
 ##Citations
-If you find this code helpful in your research please cite following articles:
-1. parent paper;```Gutal, A., & Paranjothy, M. (2025). The Journal of Chemical Physics, 163(15). ```
+If you find this code helpful in your research, please cite the following articles:
+1. Parent paper;```Gutal, A., & Paranjothy, M. (2025). The Journal of Chemical Physics, 163(15). ```
 2. Bin and Hash Algorithm:```Paleico, M. L., & Behler, J. (2021), 2(3), 037001.```
 3. Furthest Point Sampling:```Cersonsky, R. K., Helfrecht, B. A., Engel, E. A., Kliavinek, S., & Ceriotti, M. (2021), Machine Learning: Science and Technology, 2(3), 035038. ```
     
