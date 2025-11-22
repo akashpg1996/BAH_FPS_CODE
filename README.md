@@ -1,6 +1,6 @@
 # Hello Python App
 
-This is a simple Python application that prints "Hello, World!" to the console.
+This is a Python application that samples molecular configurations using the BAH and FPS algorithms.
 
 ## Project Structure
 
