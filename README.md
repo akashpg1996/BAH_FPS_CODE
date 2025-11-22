@@ -27,5 +27,5 @@ BAH_FPS
 
 ## Dependencies
 
-This project does not have any external dependencies. The `requirements.txt` file is intentionally left blank for this basic application.
+This project's dependencies are given in the ```requirements.txt``` file.
 
