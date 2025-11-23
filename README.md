@@ -29,7 +29,7 @@ BAH_FPS
 
 This project's dependencies are given in the ```requirements.txt``` file.
 
-##Citations
+## Citations
 If you find this code helpful in your research, please cite the following articles:
 1. Parent paper;```Gutal, A., & Paranjothy, M. (2025). The Journal of Chemical Physics, 163(15). ```
 2. Bin and Hash Algorithm:```Paleico, M. L., & Behler, J. (2021), Machine Learning: Science and Technology, 2(3), 037001.```
