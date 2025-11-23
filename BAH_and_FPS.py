@@ -1,5 +1,5 @@
-from src.BAH import generate_BAH_dataset
-from src.FPS import furthest_point_sampling
+from BAH_FPS.BAH import generate_BAH_dataset
+from BAH_FPS.FPS import furthest_point_sampling
 import warnings
 warnings.filterwarnings("ignore",message='X does not have valid feature names, but FPS was fitted with feature names')
 

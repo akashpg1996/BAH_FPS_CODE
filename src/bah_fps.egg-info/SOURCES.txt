@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/bah_fps.egg-info/PKG-INFO
-src/bah_fps.egg-info/SOURCES.txt
-src/bah_fps.egg-info/dependency_links.txt
-src/bah_fps.egg-info/requires.txt
-src/bah_fps.egg-info/top_level.txt
