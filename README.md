@@ -25,10 +25,11 @@ BAH_FPS
    pip install .
    ```
 ## How to run the Application
-The sample executable script is BAH_and_FPS.py. Please change the xsf_directory file path and options such as divs (number of bins in BAH algorithm),
-
-
-
+The sample executable script is BAH_and_FPS.py. Please add the xsf_directory folder path and options such as divs (number of bins in BAH algorithm),
+FPS_structures (number of structure to be extracted by FPS) and ncpus (no of threads in parallel processing).
+The structure input files must be in XCrySDen Structure file (.xsf) format and should be located in xsf_directory.
+Run the code by following command.
+``` python BAH_and_FPS.py ```
 
 ## Dependencies
 
@@ -39,5 +40,3 @@ If you find this code helpful in your research, please cite the following articl
 1. Parent paper;```Gutal, A., & Paranjothy, M. (2025). The Journal of Chemical Physics, 163(15). ```
 2. Bin and Hash Algorithm:```Paleico, M. L., & Behler, J. (2021), Machine Learning: Science and Technology, 2(3), 037001.```
 3. Furthest Point Sampling:```Cersonsky, R. K., Helfrecht, B. A., Engel, E. A., Kliavinek, S., & Ceriotti, M. (2021), Machine Learning: Science and Technology, 2(3), 035038. ```
-    
-
