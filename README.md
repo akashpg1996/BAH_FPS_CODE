@@ -29,7 +29,10 @@ The sample executable script is BAH_and_FPS.py. Please add the xsf_directory fol
 FPS_structures (number of structure to be extracted by FPS) and ncpus (no of threads in parallel processing).
 The structure input files must be in XCrySDen Structure file (.xsf) format and should be located in xsf_directory.
 Run the code by following command.
-``` python BAH_and_FPS.py ```
+
+``` 
+python BAH_and_FPS.py
+ ```
 
 ## Dependencies
 
