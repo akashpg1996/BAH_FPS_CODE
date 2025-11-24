@@ -14,7 +14,7 @@ BAH_FPS
 └── README.md
 ```
 
-## How to Run the Application
+## How to install the Application
 
 1. Make sure you have Python installed on your machine.
 2. Navigate to the project directory.
@@ -24,6 +24,11 @@ BAH_FPS
    pip install -r requirements.txt
    pip install .
    ```
+## How to run the Application
+The sample executable script is BAH_and_FPS.py. Please change the xsf_directory file path and options such as divs (number of bins in BAH algorithm),
+
+
+
 
 ## Dependencies
 
