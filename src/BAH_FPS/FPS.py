@@ -5,10 +5,6 @@ from .functions import *
 from skmatter.sample_selection import FPS # type: ignore
 import numpy as np
 
-#Please write the path where .xsf files are located and the number of FPS structures to be selected.
-xsf_directory = "/home/akash/work/VSCODE/BAH_FPS/BAH_FPS_CODE/test/testset"
-FPS_structures=50
-
 
 def furthest_point_sampling(xsf_dir, FPS_structures):
      xsf_directory = xsf_dir
